@@ -1,4 +1,4 @@
-# Scene_Duration_Display
+#Blender Addon: Scene　Duration　Display
 This Blender add-on adds an interactive "Duration" field to the header of the Timeline.
 
 ### Main Features
