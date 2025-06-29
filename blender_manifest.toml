@@ -1,6 +1,6 @@
 schema_version = "1.0.0"
 id = "Scene_Duration_Display"
-version = "1.0.0"
+version = "1.1.0"
 name = "Scene Duration Display"
 tagline = "Displays and syncs timeline duration. Set preview range with I/O"
 maintainer = "Naoki Korematsu" 
